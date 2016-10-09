@@ -1,6 +1,8 @@
 <resources>
     <string name="app_name">PlanckChallenge</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="action_start_timer">スタート</string>
+    <string name="action_stop_timer">ストップ</string>
+    <string name="action_reset_timer">リセット</string>
+    <string name="action_settings">設定</string>
 </resources>
